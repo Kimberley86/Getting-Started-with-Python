@@ -1,0 +1,14 @@
+x = 20
+y = 20
+
+#Write code like this if x is equal to y (If statements)
+#Write the first if statement here:
+#if x == y:
+  #print("These numbers are the same")
+
+
+#credits = 120
+
+# Write the second if statement here - Print line must be indented in order for the code to work correctly
+#if credits >= 120:
+ #print("You have enough credits to graduate!")
