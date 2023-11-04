@@ -1,0 +1,47 @@
+#A whole number in Python is referred to as an Integer
+
+name = ("Kimberley")
+
+#Otherwise known as <class 'str'> because we've put quotation marks around it
+age = 37
+
+#A decimal is no longer an integer but is called a Floating Point Number
+actual_age = 37.14
+
+print(name)
+print(age)
+
+#Otherwise known as <class 'str'> - See across - Str = String
+print(type(name))
+
+#Otherwise known as <class 'int'> - See across - Int = Integer
+print(type(age))
+
+#Otherwise known as <class 'float'> because it's a decimal number
+print(type(actual_age))
+
+print("\n")
+
+#The 3 data types that we have here are:
+#<class 'str'> - String - Just Text
+#<class 'int'> - Integer - Whole Number
+#<class 'float'> Floating Number - i.e Decimal Number
+
+#Using Python as a calculator
+#Here we are adding two integers together
+print(5 + 7)
+
+print("\n")
+
+#Here we are subtracting two integers
+print(5 - 7)
+
+print("\n")
+
+#Here we are multiplying two integers
+print(5 * 7)
+
+print("\n")
+
+#Here we are dividing two integers
+print(5 / 7)
