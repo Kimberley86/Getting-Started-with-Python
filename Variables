@@ -1,0 +1,24 @@
+#This section is where we are learning to code with variables
+
+#print("Hello, welcome to NetworkChuck Coffee!!!")
+
+#name = input("What is your name?\n")
+
+#A variable is a method of storing data for future use
+#print("Hello " + name + ", thank you so much for coming in today.\n\n\n")
+
+#This is how to code a variable - name is equal to the variable and string
+#We then printed the name of the variable, which in this case is my name
+#name = "Kimberley"
+#print(name)
+
+#Let's get the robot to ask questions with a menu variable
+#menu = "Black Coffee, Espresso, Latte, Cappucino"
+
+#print(name + ", what would you like from our menu today? Here is what we are serving.\n" + menu)
+
+#This is the customer's input variable
+#order = input()
+
+#Sounds good Joshua, we'll have that Latte ready for you in a moment
+#print("Sounds good " + name + ", we'll have that " + order + " ready for you in a moment.")
