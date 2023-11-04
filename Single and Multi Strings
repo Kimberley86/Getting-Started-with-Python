@@ -1,0 +1,17 @@
+#print("Hello World")
+#print("I am Captain America")
+#print("No, I am Steve Rogers")
+
+#This is called a single-string
+#print("Hello World")
+
+#This is called a multi-string
+#print("""I am Captain America.
+#No I am Steve Rogers.
+#No, I am Poppy.""")
+
+#This is called a new line indicator character - puts each individual line on it's own line
+#print("I am Captain America. \n")
+
+#This is how to multiply a string of text - don't forget to add the new line indicator for each line
+print("I am Captain America \n" * 5)
