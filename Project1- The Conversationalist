@@ -1,0 +1,44 @@
+def greet(name): 
+    print("Good Evening, " + name + "!\n")
+
+# Calling the function
+greet("Kimberley")
+
+name = input("How was your day?\n")
+
+print("\n")
+
+name = input("How would you rate Joshua's behaviour today from 1 - 5?\n")
+
+print("\n")
+
+rating = 5
+text = "He was as good as gold, so his behaviour was {:.1f} out of 5.\n".format(rating)
+print(text)
+
+print("\n")
+
+#rating = 4
+#text = "He was behaving but being a little cheeky, so his behaviour is {:.1f} out of 5.".format(rating)
+#print(text)
+
+#rating = 3
+#text = "He was being a bit cheeky, so his behaviour is {:.1f} out of 5.".format(rating)
+#print(text)
+
+#rating = 2
+#text = "He was being naughty, so his behaviour is {:.1f} out of 5.".format(rating)
+#print(text)
+
+#rating = 5
+#text = "He was misbehaving, so his behaviour is {:.1f} out of 5.".format(rating)
+#print(text)
+
+#print("\n")
+
+print("Ah, what a great rating for such a good little boy, well done Joshua!\n")
+
+name = input("What activities did you and Joshua do this afternoon?\n")
+
+question = "We played with his toys, read some books, watched TV, did some drawing, ate dinner"
+
